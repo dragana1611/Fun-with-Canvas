@@ -1,7 +1,10 @@
 html,
 body {
   margin: 0;
+  display: flex;
+  flex-direction: column;
 }
+
 .wrapper {
   position: absolute;
   top: 5%;
